@@ -1,10 +1,8 @@
 {
   "efaktura": [
-    { "id": "4521893", "aktywna": false },
-    { "id": "7834512", "aktywna": true },
-    { "id": "9901234", "aktywna": false }
+    { "id": "1-DWL", "aktywna": false }
   ],
-  "profile":{
-    "name":"typicode"
+  "profile": {
+    "name": "typicode"
   }
 }
