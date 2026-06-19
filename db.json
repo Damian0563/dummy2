@@ -1,6 +1,13 @@
 {
   "efaktura": [
-    { "id": "1-CAJ5", "aktywna": false }
+    {
+      "id": "1-CAJ5",
+      "aktywna": false
+    },
+    {
+      "id": "1-DWL",
+      "aktywna": true
+    }
   ],
   "technicy": [
     {
